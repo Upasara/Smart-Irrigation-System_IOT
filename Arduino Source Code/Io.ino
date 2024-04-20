@@ -6,7 +6,7 @@
 #define FIREBASE_HOST "iot-example-87851-default-rtdb.firebaseio.com/" 
 #define FIREBASE_AUTH "lFW7HZ2IVjmPNNXNeitrqV59RTAAkEQv7OhxKvdV"
 #define WIFI_SSID "UpasaraSam"
-#define WIFI_PASSWORD "samanlasa0022"
+#define WIFI_PASSWORD "************"
 
 #define DHTPIN 2    // Connect data pin of DHT to D2
 int led = D5;     // Connect LED to D5
