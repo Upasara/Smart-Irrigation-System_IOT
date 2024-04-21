@@ -4,7 +4,7 @@
 #include <FirebaseArduino.h>
 
 #define FIREBASE_HOST "iot-example-87851-default-rtdb.firebaseio.com/" 
-#define FIREBASE_AUTH "lFW7HZ2IVjmPNNXNeitrqV59RTAAkEQv7OhxKvdV"
+#define FIREBASE_AUTH "######################################"
 #define WIFI_SSID "UpasaraSam"
 #define WIFI_PASSWORD "************"
 
